@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042032759528",
+    "project_id": "batch-meal-v2",
+    "storage_bucket": "batch-meal-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042032759528:android:df9fe9b6087c2d13a4af5d",
+        "android_client_info": {
+          "package_name": "com.example.batch_meal_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKi7ApXRZYN_KaRyaNosYEiFVElETFiPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
